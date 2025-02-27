@@ -11,7 +11,7 @@
  I may not be active alot in github, but trust me I am constantly doing projects. I have kept my repositories public and I am always open to get any kind of suggestions and commits.
  Python is my main langage and I have done alot of machine learning projects and I have deployed some on github as well.
 
- I am open to any kind of collaborations where I can utilize my ML, Web Development, and UI/UX Design Skills
+ I am open to any kind of collaborations where I can utilize my ML, Web Development, and UI/UX Design Skills.
  Feel free to connect !
  
  
