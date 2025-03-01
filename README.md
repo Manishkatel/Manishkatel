@@ -1,6 +1,6 @@
 👋 Hi, I’m @Manishkatel
 -  I am deeply passionate about artificial intelligence and constantly exploring its potential to solve complex problems.
--  Currently, I am focused on Natural Language Processing (NLP) and Long Short-Term Memory (LSTM), with the goal of building chat-bots and AI agents.
+-  Currently, I am focused studying and researching about Natural Language Processing (NLP) and Transformers, with the goal of building chat-bots and AI agents.
 -  As a strong believer in self-learning, I spend most of my time researching, experimenting, and working on AI-related projects.
 
 
