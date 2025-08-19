@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Manishkatel<br><br>🎬 I am deeply passionate about artificial intelligence and constantly exploring its potential to solve complex problems.<br>🎬 Currently, I am focused studying and researching  about Langchain Agents, with the goal of building chat-bots and AI agents.<br>🎬 As a strong believer in self-learning, I spend most of my time researching, experimenting, and working on AI-related projects.
+👋 Hi, I’m @Manishkatel<br><br>My strong area of intersts is in Machine learning and AI but I also do backend with django and bit of fullstack.<br>
 
 
 ## 🌐 Socials:
