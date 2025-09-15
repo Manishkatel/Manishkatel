@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Manishkatel<br><br>My strong area of interest are in in Machine learning and AI, but I also do backend with django and bit of fullstack.<br>
+👋 Hi, I’m Manish katel<br><br>My strong area of interest are in in Machine learning and AI, but I also do backend with django and bit of fullstack.<br>
 
 
 ## 🌐 Socials:
