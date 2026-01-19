@@ -15,9 +15,10 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Manishkatel&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Manishkatel&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[![Manish Katel profile views](https://u8views.com/api/v1/github/profiles/167320626/views/day-week-month-total-count.svg)](https://u8views.com/github/Manishkatel)
 
 
  
