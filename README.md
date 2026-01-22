@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Manish Katel<br><br>My strong area of interests are in in Machine learning and AI. I also do a bit of backend with django and UI/UX design with figma aswell.<br>
+👋 Hi, I’m Manish Katel<br><br>My strong area of interests are in in Machine learning and Web Development. I have the experience of UI/UX design with figma aswell.<br>
 
 
 ## 🌐 Socials:
