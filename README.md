@@ -17,17 +17,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manishkatel&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Manishkatel&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-## 👀 Profile Views
-![](https://komarev.com/ghpvc/?username=Manishkatel&label=Profile%20views&color=ff69b4&style=flat)
-
----
 
 ## 📈 Contribution Graph
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Manishkatel&theme=radical)
