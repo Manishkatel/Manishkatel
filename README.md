@@ -1,5 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m Manish Katel<br><br>My strong area of interests are in in Machine learning and Web Development. I have the experience of UI/UX design with figma aswell.<br>
+<br> You might not see much of my commits here because my commits are mostly on notebooks and latex nowadays </br>
 
 
 ## 🌐 Socials:
